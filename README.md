@@ -1,5 +1,5 @@
 # 💫 About Me:
-# ⚡ Santino Kuhlcke | 42 Lisboa Cadet <br><br>
+# ⚡ Santino Kuhlcke | 42 Lisboa Student <br><br>
 
 # 💻 Currently Hunting: Low-Level Systems & C++ Roles<br>I'm a Software Engineering student at **42 Lisboa** with a 4-year background in **Web3 Operations** at Thesis as Community Engagement. I like building things that require strict logic from Unix shells to multi-threaded synchronization.
 
